@@ -19,8 +19,9 @@
 - **Database:** MongoDB, Mongoose  
 - **Other:** Axios for API calls, React Router for navigation  
 
+---
 
-**1. Clone the repository: ** 
+**1. Clone the repository:**  
 git clone https://github.com/Subhashinee-G-K/MERN-STACK-PROJECT.git
 
 **2.Install backend dependencies:**
