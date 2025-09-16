@@ -43,10 +43,10 @@ npm start
 ---
 
 **💡 Usage**
--1.Sign up as a donor or receiver.
--2.Donors can add food donations with details (type, quantity, expiry time).
--3.Receivers can view available nearby donations and accept them.
--4.The system automatically removes expired perishable donations.
+- 1.Sign up as a donor or receiver.
+- 2.Donors can add food donations with details (type, quantity, expiry time).
+- 3.Receivers can view available nearby donations and accept them.
+- 4.The system automatically removes expired perishable donations.
 
 ---
 
