@@ -40,6 +40,7 @@ npm start
 cd frontend
 npm start
 
+---
 
 **💡 Usage**
 1.Sign up as a donor or receiver.
@@ -47,9 +48,12 @@ npm start
 3.Receivers can view available nearby donations and accept them.
 4.The system automatically removes expired perishable donations.
 
+---
+
 **System Architecture**
 <img width="1021" height="543" alt="image" src="https://github.com/user-attachments/assets/64c8c16b-da89-47ac-87f1-9409c98fc9ba" />
 
+---
 **Screenshots**
 <img width="1017" height="448" alt="image" src="https://github.com/user-attachments/assets/49082b33-0858-4469-b6c5-85984bfcac02" />
 <img width="1014" height="512" alt="image" src="https://github.com/user-attachments/assets/a07dc3a5-adc0-45de-aa26-3b524d9a6c88" />
