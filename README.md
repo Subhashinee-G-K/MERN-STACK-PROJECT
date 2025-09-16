@@ -26,9 +26,9 @@ git clone https://github.com/Subhashinee-G-K/MERN-STACK-PROJECT.git
 
 **2.Install backend dependencies:**
 cd backend
+npm install
 
 **3.Install frontend dependencies:**
-npm install
 cd ../frontend
 npm install
 
